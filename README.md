@@ -1,0 +1,2 @@
+# FOGT
+Kwanty z Pythonem 
