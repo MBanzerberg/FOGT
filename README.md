@@ -1,4 +1,4 @@
 # FOGT
 Kwanty z Pythonem 
 
-To jest oficjalny projekt na potrzeby przedmiotu FOGT
+Projekt w języku Python wykonujący obliczenia z obszaru fizyki kwantowej.
