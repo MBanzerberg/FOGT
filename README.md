@@ -1,4 +1,4 @@
 # FOGT
-Kwanty z Pythonem 
+Quants with Python
 
-Projekt w języku Python wykonujący obliczenia z obszaru fizyki kwantowej.
+A project in Python that performs calculations in the field of quantum physics.
